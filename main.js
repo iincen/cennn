@@ -606,7 +606,7 @@ switch(command) {
             case 'help':
             case 'menu':
             case 'bantuan':
-                    client.sendMessage(from, help(prefix, copid, tanggal, jams, botname), text, {quoted: ftroli, contextInfo: { forwardingScore: 508, isForwarded: true}})
+                    client.sendMessage(from, help(prefix, botname), text, {quoted: ftroli, contextInfo: { forwardingScore: 508, isForwarded: true}})
                     break
                     
             case 'animelist':
