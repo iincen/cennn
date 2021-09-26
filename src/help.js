@@ -1,5 +1,9 @@
 const help = (prefix, botname) => {
 	return `「  *${botname}*  」
+
++ _no spam, no telp, no vc_
++ _melanggar rul ? blok_
+
 ┌━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
 │ 「 *Group Menu* 」
 │◦ *${prefix}setname* [text]
