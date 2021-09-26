@@ -2,9 +2,10 @@ const help = (prefix, copid, tanggal, jams, botname) => {
 	return `「  *${botname}*  」
 ┌━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
 │ *⦿ Bot Prefix :* [all prefix]
-│ *⦿ Owner :* Canz
+│ *⦿ Owner :* FebzGanz
 │ *⦿ Today :* ${tanggal}
 │ *⦿ Jam :* ${jams}
+│ *⦿ Ig:* https://bit.ly/3hqqQzZ
 └┬────────────┈ ⳹
 ┌┤ 「  *Kasus Covid-19 Indonesia*  」
 ││➥ *Terinfeksi :* ${copid[0].kasus}
