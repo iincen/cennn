@@ -1,17 +1,5 @@
 const help = (prefix, copid, tanggal, jams, botname) => {
 	return `「  *${botname}*  」
-┌━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
-│ *⦿ Bot Prefix :* [all prefix]
-│ *⦿ Owner :* FebzGanz
-│ *⦿ Today :* ${tanggal}
-│ *⦿ Jam :* ${jams}
-└┬────────────┈ ⳹
-┌┤ 「  *Kasus Covid-19 Indonesia*  」
-││➥ *Terinfeksi :* ${copid[0].kasus}
-││➥ *Kematian :* ${copid[0].kematian}
-││➥ *Sembuh :* ${copid[0].sembuh}
-│└────────────┈ ⳹
-
 + _no spam, no telp, no vc_
 + _melanggar rul ? blok_
 
