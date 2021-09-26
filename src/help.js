@@ -69,10 +69,10 @@ _*[+] - [ Info Command ]*_
 Tanda Kurung [ ] Hiraukan Contoh :
  *${prefix}play fly away*
 
-Lapor Bug🐞: *${prefix}bugreport*
-Request?   : *${prefix}request*
-owner?     : *${prefix}owner*
-└────────────┈ ⳹
+_Lapor Bug_🐞: *${prefix}bugreport*
+_Request_?    : *${prefix}request*
+_owner_?      : *${prefix}owner*
+
 Hope you have a great day ILY 🌌`}
 
 exports.help = help
