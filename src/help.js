@@ -1,90 +1,90 @@
 const help = (prefix, copid, tanggal, jams, botname) => {
-	return `「  *${botname}*  」
+	return `「  ${botname}  」
 ┌━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
-│ *⦿ Bot Prefix :* [all prefix]
-│ *⦿ Owner :* FebzGanz
-│ *⦿ Today :* ${tanggal}
-│ *⦿ Jam :* ${jams}
-│ *⦿ Ig:* https://bit.ly/3hqqQzZ
+│ ⦿ Bot Prefix : [all prefix]
+│ ⦿ Owner : FebzGanz
+│ ⦿ Today : ${tanggal}
+│ ⦿ Jam : ${jams}
+│ ⦿ Ig: https://bit.ly/3hqqQzZ
 └┬────────────┈ ⳹
-┌┤ 「  *Kasus Covid-19 Indonesia*  」
-││➥ *Terinfeksi :* ${copid[0].kasus}
-││➥ *Kematian :* ${copid[0].kematian}
-││➥ *Sembuh :* ${copid[0].sembuh}
+┌┤ 「  Kasus Covid-19 Indonesia  」
+││➥ Terinfeksi : ${copid[0].kasus}
+││➥ Kematian : ${copid[0].kematian}
+││➥ Sembuh : ${copid[0].sembuh}
 │└────────────┈ ⳹
 
-+ _no spam, no telp, no vc_
-+ _melanggar rul ? blok_
++ *no spam, no telp, no vc*
++ *melanggar rul ? blok*
 
-_*[+] - [ Grup Menu ]*_
+*[+] - [ Grup Menu ]*
 
-. _*${prefix}setname_ <text>
-. _*${prefix}setdesc_ <text>
-. _*${prefix}setpp_ <img>
-. _*${prefix}promote_ <tag>
-. _*${prefix}demote_ <tag>
-. _*${prefix}leave_
-. _*${prefix}tagall_ 
-. _*${prefix}hidetag_	
-. _*${prefix}welcome_ <1/0>
-. _*${prefix}listadmin_
-. _*${prefix}antilink_ <1/0>
-. _*${prefix}add_ <62×××>
-. _*${prefix}kick_ <tag mem>
-. _*${prefix}group_ buka/tutup
-. _*${prefix}linkgc_
+. *${prefix}setname* <text>
+. *${prefix}setdesc* <text>
+. *${prefix}setpp* <img>
+. *${prefix}promote* <tag>
+. *${prefix}demote* <tag>
+. *${prefix}leave*
+. *${prefix}tagall* 
+. *${prefix}hidetag*	
+. *${prefix}welcome* <1/0>
+. *${prefix}listadmin*
+. *${prefix}antilink* <1/0>
+. *${prefix}add* <62×××>
+. *${prefix}kick* <tag mem>
+. *${prefix}group* buka/tutup
+. *${prefix}linkgc*
 
-_*[+] - [ Maker ]*_
+*[+] - [ Maker ]*
 
-. _*${prefix}tomp3_
-. _*${prefix}lirik_
-. _*${prefix}sticker_
-. _*${prefix}swm_ <author>|<pack>
-. _*${prefix}tovideo_
-. _*${prefix}toimg_
-. _*${prefix}tts_ <Text>
-. _*${prefix}nulis_ <Text>
+. *${prefix}tomp3*
+. *${prefix}lirik*
+. *${prefix}sticker*
+. *${prefix}swm* <author>|<pack>
+. *${prefix}tovideo*
+. *${prefix}toimg*
+. *${prefix}tts* <Text>
+. *${prefix}nulis* <Text>
 
-_*[+] - [ Downloader ]*_
+*[+] - [ Downloader ]*
 
-. _*${prefix}ytmp3_ <Url>
-. _*${prefix}ytmp4_ <Url>
-. _*${prefix}dafontdown_ <Url>
-. _*${prefix}facebook_ <Url>
-. _*${prefix}instagram_ <Url> <Options>
-. _*${prefix}tiktok_ <Url>
-. _*${prefix}soundcloud_ <Url>
-. _*${prefix}pinterest_ <Query>
-. _*${prefix}play_ <Query> 
-. _*${prefix}joox_ <Query>
+. *${prefix}ytmp3* <Url>
+. *${prefix}ytmp4* <Url>
+. *${prefix}dafontdown* <Url>
+. *${prefix}facebook* <Url>
+. *${prefix}instagram* <Url> <Options>
+. *${prefix}tiktok* <Url>
+. *${prefix}soundcloud* <Url>
+. *${prefix}pinterest* <Query>
+. *${prefix}play* <Query> 
+. *${prefix}joox* <Query>
 
-_*[+] - [ Search ]*_
+*[+] - [ Search ]*
 
-. _*${prefix}ytsearch_ <Query>
-. _*${prefix}ytdesc_ <Query>
-. _*${prefix}brainly_ <Query>
-. _*${prefix}herolist_
-. _*${prefix}herodetail_ <Nama hero>
-. _*${prefix}dafontsearch_ <Query>
-. _*${prefix}google_ <Query>
-. _*${prefix}wiki_ <Query>
-. _*${prefix}quotes_ <Query>
+. *${prefix}ytsearch* <Query>
+. *${prefix}ytdesc* <Query>
+. *${prefix}brainly* <Query>
+. *${prefix}herolist*
+. *${prefix}herodetail* <Nama hero>
+. *${prefix}dafontsearch* <Query>
+. *${prefix}google* <Query>
+. *${prefix}wiki* <Query>
+. *${prefix}quotes* <Query>
 
-_*[+] - [ Nolep Menu ]*_
+*[+] - [ Nolep Menu ]*
 
-. _*${prefix}whatanime_ <FotoAnim>
-. _*${prefix}animelist_
-. _*${prefix}randomhentong_
+. *${prefix}whatanime* <FotoAnim>
+. *${prefix}animelist*
+. *${prefix}randomhentong*
 
-_*[+] - [ Info Command ]*_
+*[+] - [ Info Command ]*
 
 Tanda Kurung < > Hiraukan Contoh :
-_*${prefix}play fly away_
+*${prefix}play fly away*
 
-``Lapor Bug🐞: _*${prefix}bugreport_
-``Request?    : _*${prefix}request_
-``owner?      : _*${prefix}owner_
-``donate?     : _*${prefix}donasi_
+``Lapor Bug🐞: *${prefix}bugreport*
+``Request?    : *${prefix}request*
+``owner?      : *${prefix}owner*
+``donate?     : *${prefix}donasi*
 
 Have a Nice Day ❋ཻུ۪۪⸙`}
 
