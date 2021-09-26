@@ -18,11 +18,9 @@ _*[+] - [ Grup Menu ]*_
 _*[+] - [ Maker ]*_
 
 ◦ *${prefix}tomp3*
-◦ *${prefix}lirik*
 ◦ *${prefix}tovn*
 ◦ *${prefix}sticker*
 ◦ *${prefix}swm* [author]|[pack]
-◦ *${prefix}tovideo*
 ◦ *${prefix}toimg*
 ◦ *${prefix}nulis* [Text]
 
@@ -45,7 +43,6 @@ _*[+] - [ Search ]*_
 ◦ *${prefix}herolist*
 ◦ *${prefix}herodetail* [Nama hero]
 ◦ *${prefix}google* [Query]
-◦ *${prefix}wiki* [Query]
 ◦ *${prefix}quotes* [Query]
 
 _*[+] - [ Nolep Menu ]*_
