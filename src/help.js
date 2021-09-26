@@ -24,7 +24,6 @@ _*[+] - [ Maker ]*_
 ◦ *${prefix}swm* [author]|[pack]
 ◦ *${prefix}tovideo*
 ◦ *${prefix}toimg*
-◦ *${prefix}tts* [Text]
 ◦ *${prefix}nulis* [Text]
 
 _*[+] - [ Downloader ]*_
@@ -34,7 +33,6 @@ _*[+] - [ Downloader ]*_
 ◦ *${prefix}facebook* [Url]
 ◦ *${prefix}instagram* [Url] [Options]
 ◦ *${prefix}tiktok* [Url]
-◦ *${prefix}soundcloud* [Url]
 ◦ *${prefix}pinterest* [Query]
 ◦ *${prefix}play* [Query] [Options]
 ◦ *${prefix}joox* [Query]
@@ -46,7 +44,6 @@ _*[+] - [ Search ]*_
 ◦ *${prefix}brainly* [Query]
 ◦ *${prefix}herolist*
 ◦ *${prefix}herodetail* [Nama hero]
-◦ *${prefix}dafontsearch* [Query]
 ◦ *${prefix}google* [Query]
 ◦ *${prefix}wiki* [Query]
 ◦ *${prefix}quotes* [Query]
