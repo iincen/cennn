@@ -4,8 +4,8 @@ const help = (prefix, botname) => {
 + _no spam, no telp, no vc_
 + _melanggar rul ? blok_
 
-┌━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙
-│ 「 *Group Menu* 」
+_*[+] - [ Grup Menu ]*_
+
 │◦ *${prefix}setname* [text]
 │◦ *${prefix}setdesc* [text]
 │◦ *${prefix}setpp* [img]
@@ -21,8 +21,9 @@ const help = (prefix, botname) => {
 │◦ *${prefix}kick* [tag mem]
 │◦ *${prefix}group* buka/tutup
 │◦ *${prefix}linkgc*
-├─────────────┈ ⳹
-│ 「 *Maker* 」
+
+_*[+] - [ Maker ]*_
+
 │◦ *${prefix}tomp3*
 │◦ *${prefix}lirik*
 │◦ *${prefix}tovn*
@@ -32,8 +33,9 @@ const help = (prefix, botname) => {
 │◦ *${prefix}toimg*
 │◦ *${prefix}tts* [Text]
 │◦ *${prefix}nulis* [Text]
-├─────────────┈ ⳹
-│ 「 *Downloader* 」
+
+_*[+] - [ Downloader ]*_
+
 │◦ *${prefix}ytmp3* [Url]
 │◦ *${prefix}ytmp4* [Url]
 │◦ *${prefix}dafontdown* [Url]
@@ -44,8 +46,9 @@ const help = (prefix, botname) => {
 │◦ *${prefix}pinterest* [Query]
 │◦ *${prefix}play* [Query] [Options]
 │◦ *${prefix}joox* [Query]
-├─────────────┈ ⳹
-│ 「 *Searching* 」
+
+_*[+] - [ Search ]*_
+
 │◦ *${prefix}ytsearch* [Query]
 │◦ *${prefix}ytdesc* [Query]
 │◦ *${prefix}brainly* [Query]
@@ -57,25 +60,21 @@ const help = (prefix, botname) => {
 │◦ *${prefix}quotes* [Query]
 │◦ *${prefix}preview* teks|ukuran 
 │◦ *${prefix}ocr*
-├─────────────┈ ⳹
-│ 「 *New Fiture* 」
-│◦ *${prefix}clearall*
-│◦ *${prefix}bc* [Text]
-│◦ *${prefix}preview* [Text]
-│◦ *next update sc w add new fitur*
-├─────────────┈ ⳹
-│ 「 *Wibu Menu* 」
+
+_*[+] - [ Nolep Menu ]*_
+
 │◦ *${prefix}whatanime* [FotoAnim]
 │◦ *${prefix}animelist*
 │◦ *${prefix}randomhentong*
-│◦ *next update sc w add new fitur*
-├─────────────┈ ⳹
+
+_*[+] - [ Info Command ]*_
+
 ││Tanda Kurung [ ] Hiraukan Contoh :
 ││ *${prefix}play fly away*
 ││
 ││Lapor Bug🐞: *${prefix}bugreport*
-││Request? : *${prefix}request*
-││owner? : *${prefix}owner*
+││Request?   : *${prefix}request*
+││owner?     : *${prefix}owner*
 │└────────────┈ ⳹
 │ *Have A Nice Day*
 └━━━━━━━━━━━━┈ ❋ཻུ۪۪⸙`}
