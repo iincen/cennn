@@ -8,19 +8,12 @@ _*[+] - [ Grup Menu ]*_
 
 ◦ *${prefix}setname* [text]
 ◦ *${prefix}setdesc* [text]
-◦ *${prefix}setpp* [img]
 ◦ *${prefix}promote* [tag]
 ◦ *${prefix}demote* [tag]
-◦ *${prefix}leave*
 ◦ *${prefix}tagall* 
-◦ *${prefix}hidetag*
-◦ *${prefix}welcome* [1/0]
 ◦ *${prefix}listadmin*
-◦ *${prefix}antilink* [1/0]
-◦ *${prefix}add* [62×××]
 ◦ *${prefix}kick* [tag mem]
 ◦ *${prefix}group* buka/tutup
-◦ *${prefix}linkgc*
 
 _*[+] - [ Maker ]*_
 
@@ -38,7 +31,6 @@ _*[+] - [ Downloader ]*_
 
 ◦ *${prefix}ytmp3* [Url]
 ◦ *${prefix}ytmp4* [Url]
-◦ *${prefix}dafontdown* [Url]
 ◦ *${prefix}facebook* [Url]
 ◦ *${prefix}instagram* [Url] [Options]
 ◦ *${prefix}tiktok* [Url]
