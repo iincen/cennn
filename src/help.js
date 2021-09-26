@@ -1,5 +1,7 @@
 const help = (prefix, copid, tanggal, jams, botname) => {
-	return `「  *${botname}*  」
+	return `
+*_- - - - - [ BOT CEN ] - - - - -_*
+
 + _no spam, no telp, no vc_
 + _melanggar rul ? blok_
 
