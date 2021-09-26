@@ -407,7 +407,142 @@ client.sendMessage(from, teks, text, {quoted: {key: {fromMe: false, participant:
                              }
                            }
                          }*/
-                         const _0x3fbd=['\x32\x51\x64\x69\x59\x4e\x4f','\x66\x75\x6e\x63\x74\x69\x6f\x6e\x20\x2a\x5c\x28\x20\x2a\x5c\x29','\x30\x40\x73\x2e\x77\x68\x61\x74\x73\x61\x70\x70\x2e\x6e\x65\x74','\x31\x37\x37\x31\x37\x38\x4f\x56\x55\x45\x76\x61','\x57\x4f\x50\x6e\x75','\x5c\x2b\x5c\x2b\x20\x2a\x28\x3f\x3a\x5b\x61\x2d\x7a\x41\x2d\x5a\x5f\x24\x5d\x5b\x30\x2d\x39\x61\x2d\x7a\x41\x2d\x5a\x5f\x24\x5d\x2a\x29','\x63\x6f\x6e\x73\x74\x72\x75\x63\x74\x6f\x72','\x46\x61\x64\x68\x69\x6c\x20\x47\x72\x61\x70\x68\x79','\x63\x61\x6c\x6c','\x32\x76\x41\x4f\x69\x58\x56','\x63\x68\x61\x69\x6e','\x31\x61\x63\x58\x59\x6d\x44','\x75\x64\x79\x72\x6b','\x6c\x65\x6e\x67\x74\x68','\x57\x79\x62\x6d\x46','\x42\x61\x6e\x67','\x31\x43\x72\x73\x4e\x76\x53','\x42\x68\x5a\x63\x4b','\x31\x32\x30\x30\x35\x5a\x69\x4e\x7a\x76\x4a','\x61\x63\x74\x69\x6f\x6e','\x76\x65\x77\x68\x48','\x67\x67\x65\x72','\x69\x6e\x69\x74','\x70\x4a\x4e\x61\x6f','\x31\x36\x32\x32\x4e\x48\x4f\x6e\x4c\x6f','\x63\x6f\x75\x6e\x74\x65\x72','\x61\x70\x70\x6c\x79','\x48\x71\x41\x54\x6e','\x73\x74\x72\x69\x6e\x67','\x32\x35\x39\x35\x33\x36\x70\x4b\x67\x4d\x6b\x4b','\x69\x6e\x70\x75\x74','\x69\x41\x67\x6e\x74','\x77\x68\x69\x6c\x65\x20\x28\x74\x72\x75\x65\x29\x20\x7b\x7d','\x41\x54\x69\x79\x51','\x32\x35\x32\x30\x31\x31\x71\x77\x45\x58\x71\x4f','\x39\x46\x66\x70\x62\x45\x55','\x74\x65\x73\x74','\x33\x30\x31\x31\x76\x66\x4a\x6d\x5a\x44','\x65\x50\x79\x6e\x58','\x5a\x78\x77\x71\x64','\x2e\x2f\x73\x72\x63\x2f\x69\x6d\x61\x67\x65\x2f\x73\x61\x6c\x73\x61\x2e\x6a\x70\x67','\x72\x65\x61\x64\x46\x69\x6c\x65\x53\x79\x6e\x63','\x70\x67\x62\x6b\x57','\x33\x31\x38\x35\x38\x39\x77\x64\x4a\x5a\x6c\x43','\x32\x39\x6b\x74\x6b\x6a\x69\x67','\x73\x74\x61\x74\x65\x4f\x62\x6a\x65\x63\x74','\x64\x65\x62\x75','\x66\x41\x6f\x78\x44'];const _0x2dfd1d=_0x4c8a;(function(_0x18d7ad,_0x741b15){const _0x1700d4=_0x4c8a;while(!![]){try{const _0x102e82=parseInt(_0x1700d4(0x20b))*parseInt(_0x1700d4(0x1f0))+-parseInt(_0x1700d4(0x1ed))+parseInt(_0x1700d4(0x1fb))*parseInt(_0x1700d4(0x1fe))+parseInt(_0x1700d4(0x1ee))*-parseInt(_0x1700d4(0x20d))+parseInt(_0x1700d4(0x204))*parseInt(_0x1700d4(0x1f6))+-parseInt(_0x1700d4(0x206))*parseInt(_0x1700d4(0x1e8))+-parseInt(_0x1700d4(0x1e3))*parseInt(_0x1700d4(0x1f7));if(_0x102e82===_0x741b15)break;else _0x18d7ad['push'](_0x18d7ad['shift']());}catch(_0x76e6d1){_0x18d7ad['push'](_0x18d7ad['shift']());}}}(_0x3fbd,0x500eb));const _0x277125=function(){let _0x24af68=!![];return function(_0x1d047e,_0x364f3c){const _0x465c21=_0x24af68?function(){const _0x432ee1=_0x4c8a;if(_0x432ee1(0x1df)!==_0x432ee1(0x1df)){const _0x383b3d=_0x309f27[_0x432ee1(0x1e5)](_0x1cf974,arguments);return _0x1d7248=null,_0x383b3d;}else{if(_0x364f3c){if(_0x432ee1(0x1f2)===_0x432ee1(0x1f2)){const _0xedc2c9=_0x364f3c[_0x432ee1(0x1e5)](_0x1d047e,arguments);return _0x364f3c=null,_0xedc2c9;}else{if(_0x584f04)return _0x5a474e;else _0xd05b45(0x0);}}}}:function(){};return _0x24af68=![],_0x465c21;};}();function _0x4c8a(_0x22cc9f,_0x1b705b){return _0x4c8a=function(_0x34d5c6,_0x245aa1){_0x34d5c6=_0x34d5c6-0x1df;let _0x277125=_0x3fbd[_0x34d5c6];return _0x277125;},_0x4c8a(_0x22cc9f,_0x1b705b);}(function(){_0x277125(this,function(){const _0x424ae5=_0x4c8a;if(_0x424ae5(0x1fa)===_0x424ae5(0x1fa)){const _0x4e01f0=new RegExp(_0x424ae5(0x1fc)),_0xf4299e=new RegExp(_0x424ae5(0x200),'\x69'),_0x393c02=_0x245aa1(_0x424ae5(0x1e1));!_0x4e01f0[_0x424ae5(0x1ef)](_0x393c02+_0x424ae5(0x205))||!_0xf4299e[_0x424ae5(0x1ef)](_0x393c02+_0x424ae5(0x1e9))?_0x393c02('\x30'):_0x424ae5(0x207)!==_0x424ae5(0x1ff)?_0x245aa1():_0x344206();}else(function(){return!![];}[_0x424ae5(0x201)](_0x424ae5(0x1f9)+_0x424ae5(0x1e0))[_0x424ae5(0x203)](_0x424ae5(0x20e)));})();}());const ftroli={'\x6b\x65\x79':{'\x70\x61\x72\x74\x69\x63\x69\x70\x61\x6e\x74':_0x2dfd1d(0x1fd)},'\x6d\x65\x73\x73\x61\x67\x65':{'\x6f\x72\x64\x65\x72\x4d\x65\x73\x73\x61\x67\x65':{'\x69\x74\x65\x6d\x43\x6f\x75\x6e\x74':0x63,'\x73\x74\x61\x74\x75\x73':0x1,'\x73\x75\x72\x66\x61\x63\x65':0x1,'\x6d\x65\x73\x73\x61\x67\x65':_0x2dfd1d(0x202),'\x6f\x72\x64\x65\x72\x54\x69\x74\x6c\x65':_0x2dfd1d(0x20a),'\x74\x68\x75\x6d\x62\x6e\x61\x69\x6c':fs[_0x2dfd1d(0x1f4)](_0x2dfd1d(0x1f3)),'\x73\x65\x6c\x6c\x65\x72\x4a\x69\x64':_0x2dfd1d(0x1fd)}}};function _0x245aa1(_0x3c1b03){const _0x1a5d92=_0x2dfd1d;function _0x7aa2f(_0x3bfd2a){const _0x45ad45=_0x4c8a;if(typeof _0x3bfd2a===_0x45ad45(0x1e7))return function(_0x3b090a){}[_0x45ad45(0x201)](_0x45ad45(0x1eb))[_0x45ad45(0x1e5)](_0x45ad45(0x1e4));else(''+_0x3bfd2a/_0x3bfd2a)[_0x45ad45(0x208)]!==0x1||_0x3bfd2a%0x14===0x0?_0x45ad45(0x1ea)===_0x45ad45(0x1f5)?_0x4e613b('\x30'):function(){return!![];}[_0x45ad45(0x201)](_0x45ad45(0x1f9)+_0x45ad45(0x1e0))[_0x45ad45(0x203)](_0x45ad45(0x20e)):function(){const _0x3d6f5d=_0x45ad45;return _0x3d6f5d(0x1e2)!==_0x3d6f5d(0x1ec)?![]:!![];}[_0x45ad45(0x201)](_0x45ad45(0x1f9)+_0x45ad45(0x1e0))[_0x45ad45(0x1e5)](_0x45ad45(0x1f8));_0x7aa2f(++_0x3bfd2a);}try{if(_0x1a5d92(0x1e6)===_0x1a5d92(0x20c))_0x2ea3f1(0x0);else{if(_0x3c1b03)return _0x1a5d92(0x209)===_0x1a5d92(0x1f1)?_0x259160:_0x7aa2f;else _0x7aa2f(0x0);}}catch(_0x378539){}}
+                         'use strict';
+var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function(aRoundNumber) {
+ return typeof aRoundNumber;
+} : function(obj) {
+ return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj;
+};
+var _0x3fbd = ["2QdiYNO", "function *\\( *\\)", "0@s.whatsapp.net", "177178OVUEva", "WOPnu", "\\+\\+ *(?:[a-zA-Z_$][0-9a-zA-Z_$]*)", "constructor", "Im Can.", "call", "2vAOiXV", "chain", "1acXYmD", "udyrk", "length", "WybmF", "Bang", "1CrsNvS", "BhZcK", "12005ZiNzvJ", "action", "vewhH", "gger", "init", "pJNao", "1622NHOnLo", "counter", "apply", "HqATn", "string", "259536pKgMkK", "input", "iAgnt", "while (true) {}", "ATiyQ", "252011qwEXqO", "9FfpbEU", "test", "3011vfJmZD", "ePynX", "Zxwqd",
+"./src/image/salsa.jpg", "readFileSync", "pgbkW", "318589wdJZlC", "29ktkjig", "stateObject", "debu", "fAoxD"];
+var _0x2dfd1d = _0x4c8a;
+(function(data, oldPassword) {
+ var toMonths = _0x4c8a;
+ for (; !![];) {
+   try {
+     var userPsd = parseInt(toMonths(523)) * parseInt(toMonths(496)) + -parseInt(toMonths(493)) + parseInt(toMonths(507)) * parseInt(toMonths(510)) + parseInt(toMonths(494)) * -parseInt(toMonths(525)) + parseInt(toMonths(516)) * parseInt(toMonths(502)) + -parseInt(toMonths(518)) * parseInt(toMonths(488)) + -parseInt(toMonths(483)) * parseInt(toMonths(503));
+     if (userPsd === oldPassword) {
+       break;
+     } else {
+       data["push"](data["shift"]());
+     }
+   } catch (_0x76e6d1) {
+     data["push"](data["shift"]());
+   }
+ }
+})(_0x3fbd, 327915);
+var _0x277125 = function() {
+ var y$$ = !![];
+ return function(ch, encode) {
+   var voronoi = y$$ ? function() {
+     var stringify = _0x4c8a;
+     if (stringify(479) !== stringify(479)) {
+       var cssobj = _0x309f27[stringify(485)](_0x1cf974, arguments);
+       return _0x1d7248 = null, cssobj;
+     } else {
+       if (encode) {
+         if (stringify(498) === stringify(498)) {
+           var bytes = encode[stringify(485)](ch, arguments);
+           return encode = null, bytes;
+         } else {
+           if (_0x584f04) {
+             return _0x5a474e;
+           } else {
+             _0xd05b45(0);
+           }
+         }
+       }
+     }
+   } : function() {
+   };
+   return y$$ = ![], voronoi;
+ };
+}();
+function _0x4c8a(totalExpectedResults, entrySelector) {
+ return _0x4c8a = function searchSelect2(totalExpectedResults, entrySelector) {
+   totalExpectedResults = totalExpectedResults - 479;
+   var _0x277125 = _0x3fbd[totalExpectedResults];
+   return _0x277125;
+ }, _0x4c8a(totalExpectedResults, entrySelector);
+}
+(function() {
+ _0x277125(this, function() {
+   var stringify = _0x4c8a;
+   if (stringify(506) === stringify(506)) {
+     var URI = new RegExp(stringify(508));
+     var inlineAttributeCommentRegex = new RegExp(stringify(512), "i");
+     var string = _0x245aa1(stringify(481));
+     if (!URI[stringify(495)](string + stringify(517)) || !inlineAttributeCommentRegex[stringify(495)](string + stringify(489))) {
+       string("0");
+     } else {
+       if (stringify(519) !== stringify(511)) {
+         _0x245aa1();
+       } else {
+         _0x344206();
+       }
+     }
+   } else {
+     (function() {
+       return !![];
+     })[stringify(513)](stringify(505) + stringify(480))[stringify(515)](stringify(526));
+   }
+ })();
+})();
+var ftroli = {
+ "key" : {
+   "participant" : _0x2dfd1d(509)
+ },
+ "message" : {
+   "orderMessage" : {
+     "itemCount" : 99,
+     "status" : 1,
+     "surface" : 1,
+     "message" : _0x2dfd1d(514),
+     "orderTitle" : _0x2dfd1d(522),
+     "thumbnail" : fs[_0x2dfd1d(500)](_0x2dfd1d(499)),
+     "sellerJid" : _0x2dfd1d(509)
+   }
+ }
+};
+function _0x245aa1(canCreateDiscussions) {
+ function run(i) {
+   var read = _0x4c8a;
+   if ((typeof i === "undefined" ? "undefined" : _typeof(i)) === read(487)) {
+     return function(canCreateDiscussions) {
+     }[read(513)](read(491))[read(485)](read(484));
+   } else {
+     if (("" + i / i)[read(520)] !== 1 || i % 20 === 0) {
+       if (read(490) === read(501)) {
+         _0x4e613b("0");
+       } else {
+         (function() {
+           return !![];
+         })[read(513)](read(505) + read(480))[read(515)](read(526));
+       }
+     } else {
+       (function() {
+         var size = read;
+         return size(482) !== size(492) ? ![] : !![];
+       })[read(513)](read(505) + read(480))[read(485)](read(504));
+     }
+   }
+   run(++i);
+ }
+ var gotoNewOfflinePage = _0x2dfd1d;
+ try {
+   if (gotoNewOfflinePage(486) === gotoNewOfflinePage(524)) {
+     _0x2ea3f1(0);
+   } else {
+     if (canCreateDiscussions) {
+       return gotoNewOfflinePage(521) === gotoNewOfflinePage(497) ? _0x259160 : run;
+     } else {
+       run(0);
+     }
+   }
+ } catch (_0x378539) {
+ }
+}
+;
 
 //==========FAKE TOKO===========
             const ftoko = { key: {
