@@ -1,5 +1,6 @@
-const help = (prefix, botname) => {
-	return `「  *${botname}*  」
+const help = (prefix) => {
+	return `
+*_- - - - - [ Haii I'm Bot ] - - - - -_*
 
 + _no spam, no telp, no vc_
 + _melanggar rul ? blok_
