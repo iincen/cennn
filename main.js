@@ -1495,7 +1495,7 @@ client.groupLeave(from)
  }
  break
  case 'joox':
- if (args.length < 1) return reply('Lagu Yang Dicari Nya Apa? ')
+ if (args.length < 1) return reply('Masukkan lagu yang dicari ! ')
  teks = args.join(' ')
  axios.get(`https://tobz-api.herokuapp.com/api/joox?q=${teks}&apikey=BotWeA`).then((res) => {
  if (res.data.error) return reply(res.data.error) 
