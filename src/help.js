@@ -31,9 +31,7 @@ _*[+] - [ Downloader ]*_
 ◦ *${prefix}facebook* [Url]
 ◦ *${prefix}instagram* [Url] [Options]
 ◦ *${prefix}tiktok* [Url]
-◦ *${prefix}pinterest* [Query]
 ◦ *${prefix}play* [Query] [Options]
-◦ *${prefix}joox* [Query]
 
 _*[+] - [ Search ]*_
 
